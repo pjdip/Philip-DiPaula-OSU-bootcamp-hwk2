@@ -8,7 +8,7 @@
 </head>
 
 <body class="bg-secondary">
-    <header class="navbar navbar-expand-lg navbar-light bg-light">
+    <header class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <h1 class="navbar-brand ml-3 mt-2 bg-success text-white">Philip DiPaula</h1>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -28,8 +28,36 @@
         </div>
     </header>
 
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="container bg-white ml-4 mr-4">
+        <div class="row">
+            <div class="col">
+                <h2 class="card-title card-header bg-white text-success pl-0">Contact</h2>
+            </div>
+        </div>
+        <form class="row pl-3">
+            <div class="form-group mt-3 col-12">
+                <label for="exampleFormControlInput1">Name</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Name">
+            </div>
+            <div class="form-group col-12">
+                <label for="exampleFormControlInput2">Email</label>
+                <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="Email">
+            </div>
+            <div class="form-group col-12">
+                <label for="exampleFormControlTextarea1">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
+            </div>
+        </form>
+        <button type="button" class="btn btn-success mb-4">Submit</button>
+    </div>
+
     <div class="container-sm mt-4">
-        <div class="card w-75">
+        <div class="card">
             <div class="card-body">
                 <h2 class="card-title card-header bg-white text-success pl-0">Contact</h2>
                 <form class="pl-3">
@@ -46,10 +74,15 @@
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
                     </div>
                 </form>
-                <button type="button" class="btn btn-success">Submit</button>
+                <button type="button" class="btn btn-success mb-4">Submit</button>
             </div>
         </div>
     </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
 
     <footer class="bg-dark text-muted fixed-bottom text-center">
         <h4>&copy; Made with ❤️️ by Philip DiPaula</h4>
