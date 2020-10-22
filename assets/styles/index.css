@@ -1,0 +1,19 @@
+@media screen and (max-width: 567px) {
+    .container {
+        max-width: 95%;
+    }
+}
+@media screen and (min-width: 568px) {
+    .container {
+        max-width: 60%;
+    }
+}
+
+.container {
+    margin-bottom: 150px;
+}
+
+.img {
+    height: 200px;
+    width: 200px; /* Set a small width */
+}
