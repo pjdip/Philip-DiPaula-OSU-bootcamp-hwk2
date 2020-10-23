@@ -12,7 +12,6 @@ The goal of this assignment was to learn how to use the Bootstrap CSS Framework 
 * [Badges](#badges)
 * [License](#license)
 
-
 ## Installation
 
 The only thing you will need to have installed in order to run the index.html file is a functioning web browser. It should work with most versions of most browswers. I recommend the Brave browser, as you will be paid in the Basic Attention Token (BAT) for viewing ads, instead of being bombarded with ads and getting nothing for it.
