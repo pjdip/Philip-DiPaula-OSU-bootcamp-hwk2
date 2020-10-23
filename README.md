@@ -33,6 +33,8 @@ Special thanks to Bootstrap [Documentation](https://getbootstrap.com/docs/4.5/ge
 
 Thanks to Mozilla Developer Network for a little clarification on [semantic](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) elements and understanding [accessibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
 
+Thanks to w3schools for information about [meta tags](https://www.w3schools.com/tags/tag_meta.asp)
+
 Thanks to [W3](https://validator.w3.org/) markup validation service for help with debugging
 
 Special Thanks to [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) for providing chill lofi beats to code to
