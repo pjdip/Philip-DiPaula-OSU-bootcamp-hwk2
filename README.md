@@ -2,7 +2,7 @@
 
 ## These are the files for the second OSU Web Development Bootcamp Homework Assignment
 
-Here is a [link](https://pjdip.github.io/Philip-DiPaula-OSU-bootcamp-hwk2/) to the live page :D
+Here is a [link](https://pjdip.github.io/Portfolio/) to the live page :D
 
 The goal of this assignment was to learn how to use the Bootstrap CSS Framework to create a mobile responsive portfolio. In addition, we wanted to build upon the things we have learned already, such as accessibility standards and semantic html.
 
