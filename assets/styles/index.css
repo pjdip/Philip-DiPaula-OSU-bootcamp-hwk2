@@ -18,6 +18,14 @@
     width: 200px; /* Set a small width */
 }
 
-.projTitle {
+.projDescription {
     font-family: 'Brygada 1918', serif;
+}
+
+/* .projRepo {
+    font-family: 'Lobster', cursive;
+} */
+
+.projTitle {
+    font-family: 'Indie Flower', cursive;
 }
