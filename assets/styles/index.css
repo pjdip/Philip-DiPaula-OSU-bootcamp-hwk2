@@ -17,3 +17,7 @@
     height: 200px;
     width: 200px; /* Set a small width */
 }
+
+.projTitle {
+    font-family: 'Brygada 1918', serif;
+}
